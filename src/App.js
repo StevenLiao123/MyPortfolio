@@ -8,8 +8,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Layout fixedHeader>
-          <Header className="header-color" title={<Link style={{textDecoration: 'none', display: 'flex', color: 'white'}} to="/">
+        <Layout className="layout" fixedHeader>
+          <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">
             My Porfolio
           </Link>} scroll>
             <Navigation>
