@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Layout className="layout" fixedHeader>
+        <Layout fixedHeader>
           <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">
             My Porfolio
           </Link>} scroll>
