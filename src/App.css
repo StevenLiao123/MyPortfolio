@@ -97,17 +97,27 @@
   border-top: 5px dotted white;
   width: 50%;
   margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
 }
 
 .banner-text p {
   color: white;
   font-size: 23px;
   padding: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
 }
 
 .social-links {
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
   width: 50%;
   margin: auto;
 }
