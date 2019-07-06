@@ -117,15 +117,3 @@
   font-size: 5em;
   padding: 8px;
 }
-
-@media screen and (max-width: 1200px) {
-  .layout {
-    width: 40%
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .layout {
-    width: 90%
-  }
-}
