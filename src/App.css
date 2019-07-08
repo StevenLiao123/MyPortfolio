@@ -1,4 +1,5 @@
 .header-color {
+  font-weight: bold;
   background: #000000;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to bottom, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -9,7 +10,6 @@
   background: -webkit-linear-gradient(to bottom, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
-  position: fixed;
   top:0;
   left:0;
   width: 100%;
@@ -110,7 +110,12 @@
 
 @media only screen and (max-width: 600px) {
   .headerTitle {
-    font-size: xx-small;
+    display:none;
+  }
+
+  .resume-cell {
+    padding: 10px;
+    font-size: 10em;
   }
 
   .social-links {
@@ -125,4 +130,10 @@
     font-size: 4em;
     padding: 6px;
   }
+
+  .navigation {
+    color: red;
+  }
+
+  .contact-list 
 }

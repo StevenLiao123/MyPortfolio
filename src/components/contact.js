@@ -34,8 +34,7 @@ class Contact extends Component {
                                     <i className="fa fa-envelope" aria-hidden="true"/>
                                     stevenliao19900326@gmail.com
                                 </ListItemContent>
-                            </ListItem>
-                            
+                            </ListItem>                           
                         </List>
                         </div>
                     </Cell>

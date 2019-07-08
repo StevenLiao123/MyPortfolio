@@ -18,7 +18,7 @@ class Projects extends Component {
                 {/* Project 1 */}
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                     <CardTitle style={{color: '#fff', height: '176px', background: 
-                    'url(https://cdn-images-1.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png) center / cover'}}> Burger Builder Project 
+                    'url(https://cdn-images-1.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png) center / cover'}}> Burger
                     </CardTitle>
                     <CardText>
                         The burger project built by using HTML, CSS, JavaScript ES6, ReactJS, Firebase
@@ -35,7 +35,7 @@ class Projects extends Component {
                 {/* Project 2 */}
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                     <CardTitle style={{color: '#fff', height: '176px', background: 
-                    'url(https://cdn-images-1.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png) center / cover'}}> Burger Builder Project 
+                    'url(https://cdn-images-1.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png) center / cover'}}> Hotel 
                     </CardTitle>
                     <CardText>
                         The burger project built by using HTML, CSS, JavaScript ES6, ReactJS, Firebase
@@ -52,7 +52,7 @@ class Projects extends Component {
                 {/* Project 3 */}
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                     <CardTitle style={{color: '#fff', height: '176px', background: 
-                    'url(https://cdn-images-1.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png) center / cover'}}> Burger Builder Project 
+                    'url(https://cdn-images-1.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png) center / cover'}}> Movie
                     </CardTitle>
                     <CardText>
                         The burger project built by using HTML, CSS, JavaScript ES6, ReactJS, Firebase
