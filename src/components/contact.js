@@ -16,26 +16,26 @@ class Contact extends Component {
                         <p style={{ width: '50%', margin: 'auto', paddingTop: '2em' }}>
                             This handsome man like coding and enjoy to learn some new technologies to fullfill his life!!
                         </p>
-                    </Cell>        
+                    </Cell>
                     <Cell col={6}>
                         <h2>Contact Me</h2>
                         <hr />
                         <div className="contact-list">
-                        <List>
-                            <ListItem>
-                                <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                                    <i className="fa fa-phone-square" aria-hidden="true"/>
-                                    (61) 433 863 228
+                            <List>
+                                <ListItem>
+                                    <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton' }}>
+                                        <i className="fa fa-phone-square" aria-hidden="true" />
+                                        (61) 433 863 228
                                 </ListItemContent>
-                            </ListItem>
+                                </ListItem>
 
-                            <ListItem>
-                                <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                                    <i className="fa fa-envelope" aria-hidden="true"/>
-                                    stevenliao19900326@gmail.com
+                                <ListItem>
+                                    <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton' }}>
+                                        <i className="fa fa-envelope" aria-hidden="true" />
+                                        stevenliao19900326@gmail.com
                                 </ListItemContent>
-                            </ListItem>                           
-                        </List>
+                                </ListItem>
+                            </List>
                         </div>
                     </Cell>
                 </Grid>
