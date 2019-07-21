@@ -10,7 +10,13 @@ class NewTech extends Component {
     toggleCategories() {
         if (this.state.activeTab === 0) {
             return (
-                <div><h1>Data Structure</h1></div>
+                <div><h1>[LeetCode Online Judge] (https://leetcode.com/) is a website 
+                    containing many algorithm questions. Most of them are real interview 
+                    questions of Google, Facebook, LinkedIn, Apple, etc. 
+                    This repo shows my solutions by Go with the code style 
+                    strictly follows the Google Golang Style Guide. 
+                    Please feel free to reference and STAR to support this repo, 
+                    thank you!</h1></div>
             )
         } else if (this.state.activeTab === 1) {
             return (
