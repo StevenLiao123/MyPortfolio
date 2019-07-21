@@ -146,4 +146,9 @@
     padding: 1em;
   }
 
+  .contact-list i {
+    font-size: 20px;
+    padding-right: 3rem;
+  }
+
 }
